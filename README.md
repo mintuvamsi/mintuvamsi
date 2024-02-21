@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mintuvamsi
+- 👋 Hi, I’m vamsi
 - 👀 I’m interested in datascience and automation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,4 +13,5 @@ Feel free to check out my profile and get in touch if you have any questions or 
 <!---
 mintuvamsi/mintuvamsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+you can also contact me on vamsidhar.muchurami@outlook.com
 --->
